@@ -1,2 +1,1 @@
-# comments
-2022-08-21 blog comment repo
+<https://kdn0325.github.io/> Blog-comments (Issues)
